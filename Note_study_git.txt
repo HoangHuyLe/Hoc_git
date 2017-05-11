@@ -1,0 +1,7 @@
+﻿- clone : nhân bản, sao chep
+- repository: kho chứa
+- commit: ủy thác
+- git log: xem thong tin cac lan commit (co nhieu tham so kem theo cho git log)
+- git reset HEAD ten_file: dua mot tap tin ra khoi vung Staging Area
+- tạo Lightweight Tag và Annotated Tag sau cho các commit
+- 
